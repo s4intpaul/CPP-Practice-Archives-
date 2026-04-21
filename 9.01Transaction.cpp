@@ -1,4 +1,5 @@
-/* Program to compute amount to be returned for purchase */
+/* Program to compute amount to be returned for purchase 
+at some point u need to add more clear comments*/
 
 #include <iostream>
 #include <iomanip>
